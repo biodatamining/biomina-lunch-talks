@@ -8,19 +8,19 @@ fa-icon: calendar
 
 # Schedule for 2018
 
-#### You can register for the upcoming session [here](www.google.com).
+#### You can register for the upcoming session [here](https://goo.gl/forms/9gnNUiLWfZA59ATE2).
 {: .text-biominared}
 
 ### Friday 23rd of February 12:00-13:30 CMI G.015
 
 * **Dries Van Rompaey** - UAntwerpen: Examining the cytokine TSLP through molecular modelling
 * **Dr. Youzhong Liu** - UAntwerpen: Wine fluorescence data modelling: Toward a universal PARAFAC model
-* **Charlie Beirnaert** - UAntwerpen: Tinderesting: harvesting export knowledge in a childlike manner ([slides](/pdf/charliebeirnaert_2018-02-23.pdf))
+* **Charlie Beirnaert** - UAntwerpen: Tinderesting: harvesting export knowledge in a childlike manner ([slides](pdf/charliebeirnaert_2018-02-23.pdf))
 
 ### Friday 30th of March 12:00-13:30 CMI G.015
 
-* **Prof. Willem Talloen** - JnJ: Reality checks can help against drowning in data and algorithms ([slides](/pdf/wtalloen_2018-03-30.pdf))
-* **Wouter De Coster** - VIB: Human whole genome sequencing on PromethION: an unprecedented resolution of structural variants ([slides](/pdf/WouterDeCoster_2018-03-30.pdf))
+* **Prof. Willem Talloen** - JnJ: Reality checks can help against drowning in data and algorithms ([slides](pdf/wtalloen_2018-03-30.pdf))
+* **Wouter De Coster** - VIB: Human whole genome sequencing on PromethION: an unprecedented resolution of structural variants ([slides](pdf/WouterDeCoster_2018-03-30.pdf))
 
 ### Friday 27th of April 12:00-13:30 CMI G.015
 
@@ -37,4 +37,4 @@ fa-icon: calendar
 * **Dr. Frederik Van den Broeck** - ITG: Population genomics of New World *Leishmania* species across and along the Peruvian Andes
 * **Pauline Lempens** - ITG: Searching the *Mycobacterium tuberculosis* genome for unknown drug resistance-conferring mutations
 
-#### A flyer for this schedule can be found [here](/pdf/poster_2018.pdf).
+#### A flyer for this schedule can be found [here](pdf/poster_2018.pdf).
