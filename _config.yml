@@ -12,6 +12,8 @@ timezone: null
 lsi: false
 markdown: kramdown
 
+# url: https://pmoris.github.io
+baseurl: /biomina-lunch-talks
 
 ### content configuration ###
 title:       "Biomina Lunch Talks"

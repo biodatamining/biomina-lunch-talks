@@ -9,6 +9,6 @@ Pieter Moris
 &mdash;
 [Adrem Data Lab](https://www.uantwerpen.be/en/research-groups/adrem/)
 &mdash;
-<img src="/img/flanders.jpg" style="height: 40px;"/>
+<img src="{{ site.baseurl }}/img/flanders.jpg" style="height: 40px;"/>
 &mdash;
 this site is [open source]({{ site.source_link }})
