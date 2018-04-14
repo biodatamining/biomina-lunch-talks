@@ -13,7 +13,7 @@ fa-icon: calendar
 
 ### Friday 23rd of February 12:00-13:30 CMI G.015
 
-* **Dries Van Rompaey** - UAntwerpen: Examining the cytokine TSLP through molecular modelling
+* **Dries Van Rompaey** - UAntwerpen: Examining the cytokine TSLP through molecular modelling ([slides](pdf/driesvanrompaey_2018-02-23.pdf))
 * **Dr. Youzhong Liu** - UAntwerpen: Wine fluorescence data modelling: Toward a universal PARAFAC model
 * **Charlie Beirnaert** - UAntwerpen: Tinderesting: harvesting export knowledge in a childlike manner ([slides](pdf/charliebeirnaert_2018-02-23.pdf))
 
