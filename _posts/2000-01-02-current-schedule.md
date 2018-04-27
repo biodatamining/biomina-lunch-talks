@@ -25,7 +25,7 @@ fa-icon: calendar
 ### Friday 27th of April 12:00-13:30 CMI G.015
 
 * **Dr. Conor Meehan** - ITG: Phylodynamics of pathogenic mycobacteria
-* **Stijn Wittouck** - UAntwerpen: Comparative pangenomics of *Lactobacillus* species
+* **Stijn Wittouck** - UAntwerpen: Comparative pangenomics of *Lactobacillus* species ([slides](pdf/stijnwittouck_2018-04-27.pdf))
 
 ### Friday 25th of May 12:00-13:30 CMI G.006
 
