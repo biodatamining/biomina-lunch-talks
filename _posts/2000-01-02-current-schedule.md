@@ -32,9 +32,9 @@ fa-icon: calendar
 * **Prof. Niel Hens** - UAntwerpen & UHasselt: Evidence-based vaccinology: on how mathematics and statistics can be used to better understand the spread and inform the control of infectious diseases
 * **Joe Ibrahim** - CMG: Identification of methylation biomarkers in cancer using 450K array methylation data
 
-### Friday 29th of June 12:00-13:30 CMI TBA
+### Friday 29th of June 12:00-13:30 CMI G.006
 
-* **Dr. Frederik Van den Broeck** - ITG: Population genomics of New World *Leishmania* species across and along the Peruvian Andes
+* **Dr. Pieter Meysman** - UA: T-cell receptor sequence mining and you!
 * **Pauline Lempens** - ITG: Searching the *Mycobacterium tuberculosis* genome for unknown drug resistance-conferring mutations
 
 #### A flyer for this schedule can be found [here](pdf/poster_2018.pdf).
