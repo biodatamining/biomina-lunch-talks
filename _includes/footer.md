@@ -4,6 +4,10 @@ Nicolas De Neuter
 &mdash;
 Pieter Moris
 &mdash;
+Sofie Gielis
+&mdash;
+Wim Cuypers
+&mdash;
 <a href="http://www.biomina.be"><span style="font-family: &quot;Bauhaus 93&quot;; color: #a0bf35; font-weight: normal; vertical-align: baseline;font-size:120%">bio</span><span style="font-family: &quot;Bauhaus 93&quot;; color: #5f7791; font-weight: normal; vertical-align: baseline;font-size:120%">min</span><span style="font-family: &quot;Bauhaus 93&quot;; color: #af0039; font-weight: normal; vertical-align: baseline;font-size:120%">a </span></a>
 <!-- [biomina](https://www.biomina.be) -->
 &mdash;
