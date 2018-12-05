@@ -19,6 +19,6 @@ fa-icon: calendar
 ### Friday 30th of November 12:00-13:30 CGB U.026
 
 * **Dr. Justin J.J. van der Hooft** - WUR and UCSD: Improved small molecule structural annotation by exploiting biochemical and biosynthetic relationships ([slides](pdf/JJJvanderHooft_Antwerpen_2018.pdf))
-* **Danh Bui** - UA: Detecting Unexpected Patterns by Clustering
+* **Danh Bui** - UA: Detecting Unexpected Patterns by Clustering ([slides](pdf/btdanh_detecting_unexpected_patterns_2018-11-30.pdf))
 
 
