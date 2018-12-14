@@ -13,7 +13,7 @@ fa-icon: calendar
 
 ### Friday 26th of October 12:00-13:30 CMI G.004
 
-* **Prof. Hannes Svardal** - UA: What genome sequences can tell us about evolution ([slides] (pdf/hsvardal_201810.pdf))
+* **Prof. Hannes Svardal** - UA: What genome sequences can tell us about evolution ([slides](pdf/hsvardal_201810.pdf))
 * **FWO-SB applicants** - UA: Several Uantwerpen PhD students will give a brief overview of their Bioinformatics research proposal in the format of a five-minute pitch presentation
 
 ### Friday 30th of November 12:00-13:30 CGB U.026
