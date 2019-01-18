@@ -33,7 +33,7 @@ fa-icon: calendar
 ### Friday 31st of May 12:00-13:30 _room TBA_
 
 * **Prof. Toon Calders** - UAntwerpen
-* **Prof. Tom Leanerts** - VUB and ULB
+* **Prof. Tom Lenaerts** - VUB and ULB
 
 ### Friday 28th of June 12:00-13:30 _room TBA_
 
