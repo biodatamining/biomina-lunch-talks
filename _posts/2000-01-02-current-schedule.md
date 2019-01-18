@@ -18,7 +18,7 @@ fa-icon: calendar
 ### Friday 22th of February 12:00-13:30 CMI G.006
 
 * **Prof. Kristel Van Steen** - ULiege
-* **Dr. Bart Cuypers** - UAntwerpen
+* **Dr. Bart Cuypers** - UAntwerpen and ITM
 
 ### Friday 29th of March 12:00-13:30 _room TBA_
 
@@ -27,7 +27,7 @@ fa-icon: calendar
 
 ### Friday 26th of April 12:00-13:30 _room TBA_
 
-* **Dr. Frederik Van den Broeck** - ITG
+* **Dr. Frederik Van den Broeck** - ITM
 * **TBA** 
 
 ### Friday 31st of May 12:00-13:30 _room TBA_
@@ -37,4 +37,4 @@ fa-icon: calendar
 
 ### Friday 28th of June 12:00-13:30 _room TBA_
 
-* **Pauline Lempens**  - ITG
+* **Pauline Lempens**  - ITM
