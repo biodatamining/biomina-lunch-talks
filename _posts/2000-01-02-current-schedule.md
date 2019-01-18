@@ -13,7 +13,7 @@ fa-icon: calendar
 
 ### Friday 25th of January 12:00-13:30 CMI G.006
 
-* **Pieter Moris** - UAntwerpen: GitHub tutorial
+* **Pieter Moris** - UAntwerpen: Tutorial on git internals
 
 ### Friday 22th of February 12:00-13:30 CMI G.006
 
