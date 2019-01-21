@@ -28,7 +28,7 @@ fa-icon: calendar
 ### Friday 26th of April 12:00-13:30 _room TBA_
 
 * **Dr. Frederik Van den Broeck** - ITM
-* **TBA** 
+* **Dr. Gerben Menschaert** - UGent
 
 ### Friday 31st of May 12:00-13:30 _room TBA_
 
