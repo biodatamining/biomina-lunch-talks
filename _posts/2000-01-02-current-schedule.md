@@ -13,7 +13,7 @@ fa-icon: calendar
 
 ### Friday 25th of January 12:00-13:30 CMI G.006
 
-* **Pieter Moris** - UAntwerpen: Tutorial on git internals
+* **Pieter Moris** - UAntwerpen: Tutorial on git internals ([slides](https://pmoris.github.io/git-gud/#/))
 
 ### Friday 22th of February 12:00-13:30 CMI G.006
 
@@ -23,7 +23,7 @@ fa-icon: calendar
 ### Friday 29th of March 12:00-13:30 _room TBA_
 
 * **Prof. Vera Van Noort** - KU Leuven
-* **TBA** 
+* **Len Feremans** - UAntwerpen
 
 ### Friday 26th of April 12:00-13:30 _room TBA_
 
