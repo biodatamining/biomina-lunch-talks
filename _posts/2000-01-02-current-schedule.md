@@ -17,24 +17,24 @@ fa-icon: calendar
 
 ### Friday 22th of February 12:00-13:30 CMI G.006
 
-* **Prof. Kristel Van Steen** - ULiege
-* **Dr. Bart Cuypers** - UAntwerpen and ITM
+* **Prof. Kristel Van Steen** - ULiege: From Biomarker Discovery to Clinical Trials in Precision Medicine
+* **Dr. Bart Cuypers** - UAntwerpen and ITM: _TBA_
 
 ### Friday 29th of March 12:00-13:30 _room TBA_
 
-* **Prof. Vera Van Noort** - KU Leuven
-* **Len Feremans** - UAntwerpen
+* **Prof. Vera Van Noort** - KU Leuven: _TBA_
+* **Len Feremans** - UAntwerpen: _TBA_
 
 ### Friday 26th of April 12:00-13:30 _room TBA_
 
-* **Dr. Frederik Van den Broeck** - ITM
-* **Dr. Gerben Menschaert** - UGent
+* **Dr. Frederik Van den Broeck** - ITM: _TBA_
+* **Dr. Gerben Menschaert** - UGent: _TBA_
 
 ### Friday 31st of May 12:00-13:30 _room TBA_
 
-* **Prof. Toon Calders** - UAntwerpen
-* **Prof. Tom Lenaerts** - VUB and ULB
+* **Prof. Toon Calders** - UAntwerpen: _TBA_
+* **Prof. Tom Lenaerts** - VUB and ULB: _TBA_
 
 ### Friday 28th of June 12:00-13:30 _room TBA_
 
-* **Pauline Lempens**  - ITM
+* **Pauline Lempens**  - ITM: _TBA_
