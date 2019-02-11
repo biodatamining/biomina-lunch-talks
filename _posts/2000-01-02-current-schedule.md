@@ -18,7 +18,7 @@ fa-icon: calendar
 ### Friday 22th of February 12:00-13:30 CMI G.006
 
 * **Prof. Kristel Van Steen** - ULiege: From Biomarker Discovery to Clinical Trials in Precision Medicine
-* **Dr. Bart Cuypers** - UAntwerpen and ITM: Systems Biology of Trypanosomatids: How (multi-) omics integration can be used to gain a deep understanding of the molecular adaption of pathogens. 
+* **Dr. Bart Cuypers** - UAntwerp and ITM: Systems Biology of Trypanosomatids: How (multi-) omics integration can be used to gain a deep understanding of the molecular adaption of pathogens. 
 
 ### Friday 29th of March 12:00-13:30 _room TBA_
 
