@@ -20,12 +20,12 @@ fa-icon: calendar
 * **Prof. Kristel Van Steen** - ULiege: From Biomarker Discovery to Clinical Trials in Precision Medicine
 * **Dr. Bart Cuypers** - UAntwerp and ITM: Systems Biology of Trypanosomatids: How (multi-) omics integration can be used to gain a deep understanding of the molecular adaption of pathogens. 
 
-### Friday 29th of March 12:00-13:30 _room TBA_
+### Friday 29th of March 12:00-13:30 CGB T.138
 
 * **Prof. Vera Van Noort** - KU Leuven: _TBA_
 * **Len Feremans** - UAntwerpen: _TBA_
 
-### Friday 26th of April 12:00-13:30 _room TBA_
+### Friday 26th of April 12:00-13:30 CGB T.138
 
 * **Dr. Frederik Van den Broeck** - ITM: _TBA_
 * **Dr. Gerben Menschaert** - UGent: _TBA_
