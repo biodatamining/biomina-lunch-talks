@@ -22,8 +22,8 @@ fa-icon: calendar
 
 ### Friday 29th of March 12:00-13:30 CGB T.138
 
-* **Prof. Vera Van Noort** - KU Leuven: _TBA_
-* **Len Feremans** - UAntwerpen: _TBA_
+* **Prof. Vera Van Noort** - KU Leuven: Modeling the effect of post-translational modifications on interactions in large eukaryotic protein complexes
+* **Len Feremans** - UAntwerpen: Efficiently Mining Cohesion-based Patterns and Rules in Event Sequences
 
 ### Friday 26th of April 12:00-13:30 CGB T.138
 
