@@ -30,9 +30,8 @@ fa-icon: calendar
 * **Dr. Frederik Van den Broeck** - ITM: _TBA_
 * **Dr. Gerben Menschaert** - UGent: _TBA_
 
-### Friday 31st of May 12:00-13:30 _room TBA_
+### Friday 7th of June 12:00-13:30 _room TBA_
 
-* **Prof. Toon Calders** - UAntwerpen: _TBA_
 * **Prof. Tom Lenaerts** - VUB and ULB: _TBA_
 
 ### Friday 28th of June 12:00-13:30 _room TBA_
