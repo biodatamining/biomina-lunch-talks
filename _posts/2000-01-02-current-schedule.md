@@ -30,10 +30,10 @@ fa-icon: calendar
 * **Dr. Frederik Van den Broeck** - ITM: Natural variation and recent evolution of cutaneous leishmaniasis in South-America
 * **Dr. Gerben Menschaert** - UGent: _TBA_
 
-### Friday 7th of June 12:00-13:30 _room TBA_
+### Friday 7th of June 12:00-13:30 CMI G.006
 
 * **Prof. Tom Lenaerts** - VUB and ULB: _TBA_
 
-### Friday 28th of June 12:00-13:30 _room TBA_
+### Friday 28th of June 12:00-13:30 CMI G.005
 
 * **Pauline Lempens**  - ITM: _TBA_
