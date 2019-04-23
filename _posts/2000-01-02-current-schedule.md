@@ -28,7 +28,7 @@ fa-icon: calendar
 ### Friday 26th of April 12:00-13:30 CGB T.138
 
 * **Dr. Frederik Van den Broeck** - ITM: Natural variation and recent evolution of cutaneous leishmaniasis in South-America
-* **Dr. Gerben Menschaert** - UGent: _TBA_
+* **Dr. Gerben Menschaert** - UGent: Charting the translational landscape
 
 ### Friday 7th of June 12:00-13:30 CMI G.006
 
