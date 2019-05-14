@@ -32,6 +32,7 @@ fa-icon: calendar
 
 ### Friday 7th of June 12:00-13:30 CMI G.006
 
+* **Prof. Toon Calders** - UAntwerpen: _TBA_
 * **Prof. Tom Lenaerts** - VUB and ULB: _TBA_
 
 ### Friday 28th of June 12:00-13:30 CMI G.005
