@@ -32,7 +32,7 @@ fa-icon: calendar
 
 ### Friday 7th of June 12:00-13:30 CMI G.006
 
-* **Prof. Toon Calders** - UAntwerpen: _TBA_
+* **Prof. Toon Calders** - UAntwerpen: Machine learning discrimination: bias in, bias out
 * **Prof. Tom Lenaerts** - VUB and ULB: A bottom-up predictive approach to identify oligogenic disease causes
 
 ### Friday 28th of June 12:00-13:30 CMI G.005
